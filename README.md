@@ -6,5 +6,13 @@ It displays pet profiles with images, information, and a clean responsive layout
 - Profile cards for pets (Lion, Dog, etc.)  
 - Beginner-friendly clean HTML & CSS structure  
 - Hover and styled layout for better UI  
+## 📂 Project Structure
+
+PetAdoptionProject/
+│── index.html
+│── Petadoption.css
+│── images/
+    ├── lion.jpg
+    ├── dog.jpg
 
 
